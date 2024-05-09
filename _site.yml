@@ -1,0 +1,12 @@
+name: "Dileep-STA631"
+title: "Dileep Kalisetti STA631"
+description: |
+  Dileep Kalisetti STA631
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

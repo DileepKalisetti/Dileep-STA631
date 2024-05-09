@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": " STA 631 Statistical Modeling and Regression",
+      "description": "It's my statistics course STA631 which is concentrated in Statistical Modeling and Regression",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-05-08T23:52:18-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Dileep Kalisetti STA631",
+      "description": "Welcome to the website. I hope you feel the rollercoaster wave of experiments!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-05-08T23:52:19-04:00"
+    }
+  ],
+  "collections": []
+}
